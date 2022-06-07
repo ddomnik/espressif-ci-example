@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/geometry_test.dir/cygdrive/c/gitrepos/espressif_ci_example/main/module_geometry/geometry.cpp.o CMakeFiles/geometry_test.dir/geometry.test.cpp.o -o unit_tests.exe -Wl,--out-implib,libunit_tests.dll.a -Wl,--major-image-version,0,--minor-image-version,0  lib/Catch2/src/libCatch2Main.a lib/Catch2/src/libCatch2.a 
